@@ -1,0 +1,18 @@
+{
+  "name": "Arduino_GFX",
+  "keywords": "display",
+  "description": "GFX Library for Arduino",
+  "authors":
+  {
+    "name": "Moononournation",
+    "url": "https://github.com/moononournation"
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/moononournation/Arduino_GFX.git"
+  },
+  "version": "1.4.7",
+  "frameworks": "arduino",
+  "platforms": ["*"]
+}
